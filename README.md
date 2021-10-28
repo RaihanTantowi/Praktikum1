@@ -24,14 +24,27 @@
 * **Screnshoot output program:**
 ![Gambar 1](screenshoot2/ss1.png)
 
-### 1. Penjelasan file Latihan.py
+### 2. Penjelasan file Latihan.py
 
-* **Screenshoot Output**
+* **Screenshoot output program:**
 
 ![Gambar 2](screenshoot2/ss2.png)
 
-Bisa diliat pada gambar di atas, hasil output program tersbut terdapat error dikarenakan: 
-- terdapat "TypeError: %d format: a real number is required, not str" (program menolak dikarekan bertipe %d)
-- sedangkan pada program tersebut adalah berinput variable (a,b) bertipe string, maka seharusnya menggunakan tipe $s
-- 
+* Bisa diliat pada gambar di atas, hasil output program tersebut terdapat error dikarenakan: 
+- terdapat "TypeError: %d format: a real number is required, not str" (program menolak dikarenakan bertipe %d)
+- sedangkan pada program tersebut adalah berinput variable (a,b) bertipe string
+- maka seharusnya menggunakan tipe %s
+
+* Perbaikan program agar dapat berjalan lancar:
+Perhatikan kode pada garis bawah berwarna merah pada screenshoot dibawah ini
+
+![Gambar 3](screenshoot2/ss3.png)
+
+- %d menyatakan bilangan bulat
+- %s menyatakan string
+- %f menyatakan bilangan pecahan
+
+
+
+
 
