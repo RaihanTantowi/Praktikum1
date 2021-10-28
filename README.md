@@ -30,7 +30,7 @@
 
 ![Gambar 2](screenshoot2/ss2.png)
 
-* Bisa diliat pada gambar di atas, hasil output program tersebut terdapat error dikarenakan: 
+ Bisa diliat pada gambar di atas, hasil output program tersebut terdapat error dikarenakan: 
 - terdapat "TypeError: %d format: a real number is required, not str" (program menolak dikarenakan bertipe %d)
 - sedangkan pada program tersebut adalah berinput variable (a,b) bertipe string
 - maka seharusnya menggunakan tipe %s
