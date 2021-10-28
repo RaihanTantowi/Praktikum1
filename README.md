@@ -27,6 +27,7 @@
 ### 1. Penjelasan file Latihan.py
 
 * **Screenshoot Output**
+
 ![Gambar 2](screenshoot2/ss2.png)
 
 Bisa diliat pada gambar di atas, hasil output program tersbut terdapat error dikarenakan: 
