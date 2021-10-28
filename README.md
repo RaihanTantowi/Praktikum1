@@ -26,8 +26,6 @@
 
 ### 2. Penjelasan file Latihan.py
 
-* **Screenshoot output program:**
-
 ![Gambar 2](screenshoot2/ss2.png)
 
  Bisa diliat pada gambar di atas, hasil output program tersebut terdapat error dikarenakan: 
@@ -35,8 +33,9 @@
 - sedangkan pada program tersebut adalah berinput variable (a,b) bertipe string
 - maka seharusnya menggunakan tipe %s
 
-* Perbaikan program agar dapat berjalan lancar:
-Perhatikan kode pada garis bawah berwarna merah pada screenshoot dibawah ini
+ Perbaikan program agar dapat berjalan lancar:
+
+ Perhatikan kode pada garis bawah berwarna merah pada screenshoot dibawah ini
 
 ![Gambar 3](screenshoot2/ss3.png)
 
