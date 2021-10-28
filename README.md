@@ -33,10 +33,9 @@
 - sedangkan pada program tersebut adalah berinput variable (a,b) bertipe string
 - maka seharusnya menggunakan tipe %s
 
- Perbaikan program agar dapat berjalan lancar:
-
- Perhatikan kode pada garis bawah berwarna merah pada screenshoot dibawah ini
-
+ **Perbaikan program agar dapat berjalan lancar**
+ 
+ Perhatikan kode bergaris bawah berwarna merah pada screenshoot dibawah ini.
 ![Gambar 3](screenshoot2/ss3.png)
 
 - %d menyatakan bilangan bulat
