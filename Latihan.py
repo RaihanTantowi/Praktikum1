@@ -7,11 +7,8 @@ print("variable a = ", a)
 print("variable b = ", b)
 print("Hasil penjumlahan a+b = ", a+b)
 
-a = input("masukan nilai a : ")
-b = input("masukan nilai b : ")
-
-#a = int(input("masukan nilai a : "))
-#b = int(input("masukan nilai b : "))
+a = (input("masukan nilai a : "))
+b = (input("masukan nilai b : "))
 print("variable a = ", a)
 print("variable b = ", b)
 print("Hasil penggabungan {0}&{1}=%s".format(a, b) % (a+b))
