@@ -21,3 +21,5 @@
 ```
   print(txt.format(nama_lengkap, nama_panggilan,npm, tempat_lahir, umur, alamat, telepon)) 
 ```
+* Screnshoot output program
+![Gambar 1](screenshoot2/ss1.png)
