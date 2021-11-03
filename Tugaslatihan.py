@@ -17,4 +17,4 @@ txt = "Assalamu'alaikum.\n\nLet me introduce my self. My name is {}, but you can
 print(txt.format(nama_lengkap, nama_panggilan,npm, tempat_lahir, umur, alamat, telepon))
 
 print("="*149) 
-print("="*149) 
+print("="*149)
